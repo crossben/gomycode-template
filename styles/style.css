@@ -1,0 +1,14 @@
+/* Styles pour l'élément body */
+body {
+    /* Définit la famille de police par défaut pour l'ensemble du document */
+    font-family: "Montserrat", sans-serif;
+    
+    /* Active le dimensionnement optique automatique pour une meilleure lisibilité */
+    font-optical-sizing: auto;
+    
+    /* Définit le poids de la police par défaut à normal */
+    font-weight: normal;
+    
+    /* Définit le style de police par défaut à normal (non italique) */
+    font-style: normal;
+}
